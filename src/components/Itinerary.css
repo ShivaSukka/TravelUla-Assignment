@@ -1,0 +1,8 @@
+.itinerary-img {
+    height: 250px; /* Set a fixed height */
+    object-fit: cover; /* Ensure images fill the space without stretching */
+    width: 100%; /* Ensure full width within the card */
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+  }
+  
